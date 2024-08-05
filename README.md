@@ -5,19 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+-->
+<div>
  <h1 align="center">Hey, I'm Harshit 👋</h1>
+ 
+ <p>
+ <h3>I'm a programmer and a tech enthusiast!</h3>
+  🔭 I’m currently working on <br>
+  🌱 I’m currently learning GO and JAVA<br>
+  👯 I’m looking to collaborate on projects<br>
+  </p>
+</div>
 <!--
-<h5 align="center">SWE Intern - Microsoft' 24 | Technology Intern - Barclays UK' 23 | NGWL McKinsey & Co' 23 | Secretary - Magazine Board AIT' 23</h5>
 <h6 align= "center" style="background-color:DodgerBlue;"> I’m currently studying in final year of Bachelor's of Engineering. I’m keen to work on Machine Learning, Data Analysis and Web Development projects. I have hands on experience in programming languages C++, Python, Java. I have built multiple projects using Pygame and machine learning algorithms. I have solved over 400 problems in various coding platforms like Codeforces and Hackerrank. I’m currently learning Operating Systems and Computer Networking. My skillset includes machine learning, database management systems, object oriented programming, web development and UI/UX.  
 </h6>
 -->
