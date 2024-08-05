@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 <div>
  <h1 align="center">Hey, I'm Harshit 👋</h1>
- 
+ <img align="right" alt="GIF" src="f53601133f236d1cb167ac19f05a3d60.gif" width="400" height="400" />
  <p>
  <h3>I'm a programmer and a tech enthusiast!</h3>
   🔭 I’m currently working on <br>
