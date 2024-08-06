@@ -1,5 +1,3 @@
-
-[![](https://visitcount.itsvg.in/api?id=whiz-10&icon=6&color=1)](https://visitcount.itsvg.in)
 <div align="center">
  <a href = "https://www.linkedin.com/in/harshit-kumar-10nix">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo"  /></a>
@@ -75,5 +73,6 @@
 
 </div>
 
+<br>
 
-  
+[![](https://visitcount.itsvg.in/api?id=whiz-10&icon=6&color=1)](https://visitcount.itsvg.in)
