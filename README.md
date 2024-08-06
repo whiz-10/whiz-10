@@ -14,7 +14,7 @@
  
  <h3>I'm a programmer and a tech enthusiast!</h3>
  🎓 Studying in the final year of Bachelor's of Engineering<br>
- 💻 Working on a backend development project<br>
+ 💻 Working on backend development projects<br>
  🤝 Looking to collaborate on projects<br>
  📚 Learning Go and Java<br>
  🏆 Solved over 500 problems on various coding platforms<br>
