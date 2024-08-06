@@ -1,4 +1,5 @@
 
+[![](https://visitcount.itsvg.in/api?id=whiz-10&icon=6&color=1)](https://visitcount.itsvg.in)
 <div align="center">
  <a href = "https://www.linkedin.com/in/harshit-kumar-10nix">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo"  /></a>
@@ -6,8 +7,9 @@
  <a href ="https://www.instagram.com/_ashborn_10">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo"  /></a>
  <img width="12" />
+  <a href ="https://www.harshitchaudhary10nix@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail logo"  />
-</div>
+</div></a>
  <h1 align="center">Hey, I'm Harshit 👋
  </h1>
  <img align="right" src="IMG_20240806_051229.jpg" width="357" height="428.5" />
@@ -73,7 +75,5 @@
 
 </div>
 
-
-[![](https://visitcount.itsvg.in/api?id=whiz-10&icon=6&color=1)](https://visitcount.itsvg.in)
 
   
