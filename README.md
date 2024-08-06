@@ -1,7 +1,7 @@
 
 <div>
  <h1 align="center">Hey, I'm Harshit 👋</h1>
- <img align="right" src="IMG_20240806_051229.jpg" width="357" height="417.5" />
+ <img align="right" src="IMG_20240806_051229.jpg" width="357" height="420.5" />
  
  <h3>I'm a programmer and a tech enthusiast!</h3>
   🔭 I’m currently working on <br>
